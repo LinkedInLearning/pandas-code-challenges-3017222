@@ -1,34 +1,20 @@
-# Pandas Code Challenges
-This is the repository for the LinkedIn Learning course `Pandas Code Challenges`. The full course is available from [LinkedIn Learning][lil-course-url].
+# pandas Code Challenges
+This is the repository for the LinkedIn Learning course pandas Code Challenges. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+![pandas Code Challenges][lil-thumbnail-url] 
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
-
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
-
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
-
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+Want to test your pandas skills? These concise challenges let you stretch your brain and test your talents. Instructor Harshit Tyagi shares over a dozen pandas challenges, as well as his own solutions to each problem. Harshit’s challenges cover: Reading files and initial exploration of data using pandas attributes; data cleaning; creating subsets of data using indexing and slicing; writing queries to filter out rows based on conditional statements and Boolean indexing; and grouping and aggregation to answer categorical questions. Learn to apply statistical functions to groups. And since each challenge is self-contained, you can complete the course in any order—and at your own pace. Tune in to get the hands-on practice you need to keep your skills sharp.
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Harshit Tyagi 
+                            
 
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/harshit-tyagi).
+
+[lil-course-url]: https://www.linkedin.com/learning/pandas-code-challenges
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3017222/3017222-1648236499141-16x9.jpg
